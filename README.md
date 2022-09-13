@@ -19,6 +19,11 @@ baraye nasb abzare ebteda pish nyaz ha nasb dashte nashid
           pip install colorama
 
 
+ya ba in dastor nasb konid:
+
+
+          pip install requests.txt
+
        
        
 file ba in dastor ejra kon:
